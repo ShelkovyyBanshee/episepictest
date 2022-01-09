@@ -1,2 +1,2 @@
 def mem(self):
-    pass
+    print("Лол")
