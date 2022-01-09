@@ -1,3 +1,3 @@
 def mem(self):
-    print("Лолy")
-    print("Кекs")
+    print("Лолф")
+    print("Кекф")
